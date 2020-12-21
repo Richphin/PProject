@@ -1,0 +1,93 @@
+
+.main {    
+    height: 450px;
+}
+.full-bg-img{
+    background-color: rgba(124, 49, 15, 0.829);
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+}
+.eventname {
+    color: aliceblue;
+    padding-left: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ .date {
+    color: rgb(250, 157, 51);
+    text-align: right;
+    margin-right: 45px;
+    padding-top: none;
+ }
+ .navbar-nav .active a {
+    border: 2px solid rgb(250, 157, 51);
+}
+ .topbtn {
+    margin-right: 30px;
+    margin-top: 10px;
+ }
+ .topbtn > li > a {
+    color:  rgb(248, 247, 248);
+    font-family: Open Sans;
+     font-style: normal;
+ }
+ .dedication {
+    padding-top: 70px;
+    color: rgb(250, 157, 51);
+    font-size: 40px;
+ }
+ .intro {
+    color: azure;
+    font-size: 24px;
+    padding-bottom: 70px;
+    font-family: 'Courier New', Courier, monospace
+ }
+ .middle {
+   margin-top: 50PX;
+ }
+ .speakerimg {
+    display: block;
+    max-width: 285px;
+    max-height: 221px;
+}
+ .daysimg .venueimg{
+    display: block;
+    max-width: 329px;
+    max-height: 255px;
+ }
+ .thumbnailborder{
+	border: none;
+}
+  .imgborder{
+  border-radius: 5px;
+ }
+ .footer{
+    background-color: rgba(124, 49, 15, 0.904);
+    height: 120px;
+    margin-top: 0px;
+    padding: auto;
+   }
+   .navrow{
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+   }
+   .copyright {
+    color: rgb(250, 157, 51)
+   }
+   .caption > h4 , p{
+    color: rgba(124, 49, 15, 0.904);
+   }
+   h5{
+    color: rgba(124, 49, 15, 0.904);
+   }
+   .dwnbtn > li > a {
+    color:  rgb(248, 247, 248);
+    font-family: Open Sans;
+    font-style: normal;
+    font-size: 12px;
+ }
+ .dwnbtn {
+   margin-top: none;
+   padding-top: 25px;
+}

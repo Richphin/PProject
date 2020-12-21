@@ -1,0 +1,129 @@
+
+.main {    
+    height: 200px;
+}
+.full-bg-img{
+    background-color: rgba(124, 49, 15, 0.829);
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+}
+.eventname {
+    color: aliceblue;
+    padding-left: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ .eventname > h4 {
+    color: aliceblue;
+ }
+ .date > h4 {
+    color: rgb(250, 157, 51);
+    text-align: right;
+    margin-right: 45px;
+    padding-top: none;
+ }
+ .navbar-nav .active a {
+    border: 2px solid rgb(250, 157, 51);
+}
+ .topbtn {
+    margin-right: 30px;
+    margin-top: 10px;
+ }
+ .topbtn > li > a {
+    color:  rgb(248, 247, 248);
+    font-family: Open Sans;
+     font-style: normal;
+ }
+ .dedication {
+    padding-top: 40px;
+    color: rgb(250, 157, 51);
+    font-size: 45px;
+ }
+ .topcontent {
+    background-color: rgb(182, 104, 69);
+ }
+ .intro {
+    color: azure;
+    font-size: 21px;
+    padding-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ }
+ .middlecontent {
+   margin-bottom: 50PX;
+   margin-top: 50px;
+ }
+ hr {
+    border: 0.25px solid rgba(124, 49, 15, 0.226);
+    align-content: center
+}
+ .speakerimg {
+    display: block;
+    max-width: 285px;
+    max-height: 221px;
+}
+ .headers{
+    padding-top: 10px;
+ }
+ .leftcontent{
+	padding-right: 10px;
+}
+  .rightcontent{
+  padding-left: 10px;
+ }
+ .footer{
+    background-color: rgba(124, 49, 15, 0.904);
+    height: 120px;
+    margin-top: 0px;
+    padding: auto;
+   }
+   .navrow{
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+   }
+   .copyright {
+    color: rgb(250, 157, 51)
+   }
+   h5 , h4 , p , li{
+    color: rgba(124, 49, 15, 0.904);
+   }
+   .speakerimg{
+    width: 170px;
+    height: 170px;
+   }
+   .dwnbtn > li > a {
+    color:  rgb(248, 247, 248);
+    font-family: Open Sans;
+    font-style: normal;
+    font-size: 12px;
+ }
+ .dwnbtn {
+    margin-top: none;
+    padding-top: 25px;
+ }
+ .lb {
+    color: rgba(124, 49, 15, 0.904);
+}
+ .inputbox {
+    color: rgba(124, 49, 15, 0.904);
+    border: 1px solid rgba(124, 49, 15, 0.904);
+
+ }
+ .passes {
+    border: 1px solid rgba(124, 49, 15, 0.904);
+    width: 100px;
+ }
+ .comments {
+    height: 150px;
+    padding-top: none;
+    max-width: 250px;
+ }
+ .purchasebtn {
+    background-color: rgba(124, 49, 15, 0.904);
+    border-color: rgba(124, 49, 15, 0.904);
+ }
+ .purchasebtn > a {
+    color: rgb(250, 157, 51);
+    text-decoration: none;
+    
+ }

@@ -1,0 +1,48 @@
+//*.header {
+    background-color: rgba(124, 50, 15, 0.904);
+ }*/
+ .full-bg-img{
+    background-color:  rgba(124, 50, 15, 0.904);
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+}
+ .eventname {
+    color: aliceblue
+ }
+ .date {
+    color: rgb(250, 157, 51);
+    text-align: right;
+    margin-right: 10px;
+    padding-top: none;
+ }
+ .topbtn {
+    margin-right: 10px;
+ }
+ .topbtn > li > a {
+    color:  rgb(248, 247, 248);
+    font-family: Open Sans;
+     font-style: normal;
+ }
+ //*.topcontent {
+    background-color: rgba(124, 50, 15, 0.904);
+ }*/
+ .dedication {
+    padding-top: 70px;
+    color: rgb(250, 157, 51);
+    font-size: 40px;
+ }
+ .intro {
+    color: azure;
+    font-size: 23px;
+    padding-bottom: 70px;
+ }
+ .carbrands {
+    margin-top: 10px;
+ }
+ .carbrands {
+    margin-top: 10px;
+ }
+ .carbrands {
+    margin-top: 10px;
+ }
