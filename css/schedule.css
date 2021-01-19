@@ -1,53 +1,70 @@
-
 .main {    
-    height: 200px;
+   height: 310px;
 }
 .full-bg-img{
-    background-color: rgba(124, 49, 15, 0.829);
-    position: absolute;
-    overflow: hidden;
-    width: 100%;
+   background-color: rgba(124, 49, 15, 0.829);
+   position: absolute;
+   overflow: hidden;
+   width: 100%;
 }
-.eventname {
-    color: aliceblue;
-    padding-left: 30px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
- }
- .eventname > h4 {
-    color: aliceblue;
- }
- .date > h4 {
-    color: rgb(250, 157, 51);
-    text-align: right;
-    margin-right: 45px;
-    padding-top: none;
- }
- .navbar-nav .active a {
-    border: 2px solid rgb(250, 157, 51);
+.navbar-home {
+  background-color: rgba(124, 49, 15, 0.904);
+  border-color:  rgba(124, 49, 15, 0.904);
+  border-radius: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
 }
- .topbtn {
-    margin-right: 30px;
-    margin-top: 10px;
- }
- .topbtn > li > a {
-    color:  rgb(248, 247, 248);
-    font-family: Open Sans;
-     font-style: normal;
- }
- .dedication {
-    padding-top: 40px;
-    color: rgb(250, 157, 51);
-    font-size: 45px;
- }
- .topcontent {
-    background-color: rgb(182, 104, 69);
- }
- .intro {
-    color: azure;
-    font-size: 21px;
-    padding-bottom: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
- }
+.richminds {    
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: Open Sans;
+  color: rgb(250, 157, 51);
+}
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: rgb(250, 157, 51);
+  background-color: rgba(124, 49, 15, 0.904); 
+}
+.navbar-nav .active a {
+  border: 2px solid rgb(250, 157, 51);
+}
+.navbar-default .navbar-nav > li > a {
+ color: rgb(250, 157, 51);
+}
+.date > h4 {
+   color: rgb(250, 157, 51);
+   text-align: right;
+   margin-right: 40px;
+   padding-top: none;
+}
+
+.topbtn {
+   margin-right: 30px;
+   margin-top: 10px;
+
+}
+.topbtn > li > a {
+   color:  rgb(250, 157, 51);
+   font-family: Open Sans;
+    font-style: normal;
+}
+.topcontent {    
+  padding-top: 10px;
+}
+.dedication {
+   padding-top: 0px;
+   color: rgb(250, 157, 51);
+   font-size: 30px;
+}
+.intro {
+   color: azure;
+   font-size: 20px;
+   padding: 20px;
+
+   font-family: 'Courier New', Courier, monospace
+}
  .middlecontent {
    margin-bottom: 50PX;
    margin-top: 50px;
@@ -84,7 +101,7 @@
    padding: auto;
   }
 .socialmedia {
-padding-left: 400px;
+padding-left: 0px;
 }
 .icon{
   background: transparent;
@@ -108,7 +125,7 @@ padding-left: 400px;
   }
  
   .dwnbtn > li > a {
-   color:  rgb(248, 247, 248);
+   color:   rgb(250, 157, 51);
    font-family: Open Sans;
    font-style: normal;
    font-size: 12px;
